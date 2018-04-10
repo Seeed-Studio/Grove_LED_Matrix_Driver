@@ -1,0 +1,42 @@
+  
+#######################################
+# Syntax Coloring Map For 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+LEDMatrix	KEYWORD2
+clear	KEYWORD2
+setBrightness	KEYWORD2
+drawPoint	KEYWORD2
+drawLine	KEYWORD2
+drawCircle	KEYWORD2
+displayChar	KEYWORD2
+displayString	KEYWORD2
+displayLongInteger	KEYWORD2
+drawExpression	KEYWORD2
+drawImage	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+RED	LITERAL1
+GREEN	LITERAL1
+FONT_6X8	LITERAL1
+FONT_8X12	LITERAL1
+FONT_10X16	LITERAL1
+FONT_12X16	LITERAL1
+SMILE_32X20	LITERAL1
+SAD_32X32	LITERAL1
+CUTE_64X14	LITERAL1
+CRY_48X13	LITERAL1
+COMMON_32X10	LITERAL1
+CONTENTED_64X12	LITERAL1
+SLEEP_48X13	LITERAL1
