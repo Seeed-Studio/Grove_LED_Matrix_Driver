@@ -1,12 +1,15 @@
 Grove - LED Matrix Driver
 ---------------------------------------------------------
 
+<img src=https://statics3.seeedstudio.com/seeed/img/2016-07/POVQFNSv9hKluouORsqs2H5s.jpg width=300><img src=https://statics3.seeedstudio.com/upload/img/20160517023557-b86ba3.jpg width=300>
 
+[Grove - LED Matrix Driver v1.0](https://www.seeedstudio.com/Grove-LED-Matrix-Driver-v1.0-p-2645.html)
 
-    
-----
+The Grove – LED Matrix Driver v1.0 can be a nice helper when you need to driver a dual color LED matrix. It is built around the neat little chip STM32F103C8T6, which works at a frequency of 72MHz and very low power consumption. You can use the drivers to control a LED matrix sized at 64x32 or 32x16. And as though we’ve prepared handy and easy-to-use libraries, you only need to write few lines of code to get it working quickly and display whatever you wish.
 
+For more information please visit [wiki](http://wiki.seeedstudio.com/Grove-LED_Matrix_Driver_v1.0/).
 
+------
 This software is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt for more information.<br>
 
 Contributing to this software is warmly welcomed. You can do this basically by<br>
