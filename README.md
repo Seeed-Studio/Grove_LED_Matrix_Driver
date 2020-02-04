@@ -1,4 +1,4 @@
-Grove - LED Matrix Driver
+Grove - LED Matrix Driver  [![Build Status](https://travis-ci.com/Seeed-Studio/Grove_LED_Matrix_Driver.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Grove_LED_Matrix_Driver)
 ---------------------------------------------------------
 
 <img src=https://statics3.seeedstudio.com/seeed/img/2016-07/POVQFNSv9hKluouORsqs2H5s.jpg width=300><img src=https://statics3.seeedstudio.com/upload/img/20160517023557-b86ba3.jpg width=300>
